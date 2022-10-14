@@ -4,7 +4,7 @@ DATABASE_NAME = None
 
 # Bot Configuration
 BOT_TOKEN = None
-REDIS_CONF = {}
+REDIS_CONF = { }
 
 # DBL
 DBL_TOKEN = None
